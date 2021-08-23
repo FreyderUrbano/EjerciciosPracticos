@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="et_Nombre">Ingresa tu nombre</string>
+    <string name="et_password">Password</string>
+    <string name="Boton">GUARDAR</string>
+</resources>

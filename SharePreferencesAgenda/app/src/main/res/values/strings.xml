@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharePreferencesAgenda</string>
+    <string name="Txt_Nombres">Nombres</string>
+    <string name="Txt_Datos">Datos de Agenda</string>
+    <string name="Boton_1">Guardar</string>
+    <string name="Boton_2">Buscar</string>
+</resources>

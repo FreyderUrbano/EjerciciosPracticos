@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GUARDAR DATOS EN TARJETA SD</string>
+    <string name="Campo_titulo_datos">Ingresa un titulo</string>
+    <string name="Campo_datos">Datos</string>
+    <string name="Boton_Guardar">GUARDAR</string>
+    <string name="Boton_Consultar">CONSULTAR</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "GUARDAR DATOS EN TARJETA SD"
+include ':app'

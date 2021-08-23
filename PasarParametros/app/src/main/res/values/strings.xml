@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PasarParametros</string>
+    <string name="EditTex_Dato">Ingresa un dato</string>
+    <string name="Edit_Text_Dato2">Datos</string>
+    <string name="boton_datos">enviar</string>
+    <string name="boton_datos2">Regresar</string>
+
+</resources>

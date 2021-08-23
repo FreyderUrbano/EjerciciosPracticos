@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bitacora</string>
+    <string name="MultiLine">Ingresa Recordatorios</string>
+    <string name="btn_Guardar">GUARDAR</string>
+</resources>

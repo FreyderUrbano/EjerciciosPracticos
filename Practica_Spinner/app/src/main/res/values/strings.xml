@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica_Spinner</string>
+    <string name="et_1">Ingresa primer numero</string>
+    <string name="et_2">Ingresa segundo numero</string>
+    <string name="Tv_1">Resultados</string>
+    <string name="Boton_calcular">calcular</string>
+</resources>

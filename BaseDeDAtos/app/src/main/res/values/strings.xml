@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaseDeDAtos</string>
+    <string name="et_codigo">Ingresa un codigo</string>
+    <string name="et_nombre">Ingresa nombre producto</string>
+    <string name="et_precio">Ingresa Precio Producto</string>
+    <string name="btn_guardar">REGISTRAR</string>
+    <string name="btn_Consultar">CONSULTAR</string>
+    <string name="btn_Modificar">MODIFICAR</string>
+    <string name="btn_Eliminar">ELIMINAR</string>
+
+</resources>

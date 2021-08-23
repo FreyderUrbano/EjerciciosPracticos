@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiApp2</string>
+    <string name="txt_view_String">INGRESA NOTAS DEL ALUMNO</string>
+    <string name="txt_EditText_String">FISICA</string>
+    <string name="txt_EditText_String2">QUIMICA</string>
+    <string name="txt_EditText_String3">MATEMATICAS</string>
+    <string name="txt_Boton_String">EVALUAR</string>
+    <string name="txt_view_String1">RESULTADO DE LA EVALUACION</string>
+
+</resources>

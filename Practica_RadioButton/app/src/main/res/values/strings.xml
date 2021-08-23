@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica_RadioButton</string>
+    <string name="Edit_text1">Ingresa un numero</string>
+    <string name="Edit_text2">Ingresa un numero</string>
+    <string name="RadioButton1">Suma</string>
+    <string name="RadioButton2">Resta</string>
+    <string name="RadioButton3">Multiplicacion</string>
+    <string name="RadioButton4">Division</string>
+    <string name="Boton">CALCULAR</string>
+    <string name="Text_View1">RESULTADO</string>
+
+
+
+
+</resources>

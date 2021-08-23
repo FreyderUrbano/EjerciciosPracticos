@@ -1,0 +1,2 @@
+rootProject.name = "Practica_RadioButton"
+include ':app'
